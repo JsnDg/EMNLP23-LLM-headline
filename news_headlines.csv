@@ -1,0 +1,844 @@
+,headline,global_index,index,con,newsOrder,word_count
+0,Qatar's emir in Cairo for 1st time since Arab spat resolved,800,original,0,0,11
+11,UN urges Libya's rivals to agree on elections this week,803,original,0,3,10
+15,Fertiliser shortage hits African farmers battling food crisis,804,original,0,4,8
+18,Intact wooly mammoth baby uncovered in northwestern Canada,817,original,0,17,8
+26,Deadline passes and 1 in 10 Army National Guard soldiers still unvaccinated for Covid. Will they be expelled?,805,original,0,5,18
+35,US grapples with whether to modify COVID vaccine for fall,806,original,0,6,10
+39,U.S.-Iran nuclear negotiations in Qatar end without breakthrough,802,original,0,2,8
+42,UK Plan to Override Brexit Deal Passes Hurdle With Tory Dissent,801,original,0,1,11
+48,Moment of reckoning:' Federal official warns of Colorado River water supply cuts,814,original,0,14,12
+57,Nearly a quarter of Earth's seafloor now mapped,816,original,0,16,8
+63,"COVID vaccines saved 20M lives in 1st year, scientists say",808,original,0,8,10
+66,Photo shows newly-discovered bacteria so large they are visible to the naked eye,818,original,0,18,13
+72,"Leaf blowers, lawn mowers and fertilizer: How lawns contribute to climate change",812,original,0,12,12
+80,Moment of reckoning:' Federal official warns of Colorado River water supply cuts,810,original,0,10,12
+86,Ancient fossils in the 'Cradle of Humankind' are more than 1 million years older than previously thought,819,original,0,19,17
+95,U.S. Forest Service admits climate change miscalculation in New Mexico fire,813,original,0,13,11
+98,"As COVID fears ebb, Japan readies for tourists from abroad",807,original,0,7,10
+105,"It's not summer yet, but climate change is already showing its teeth in 2022",811,original,0,11,14
+108,Earliest evidence of wildfire found in Wales,815,original,0,15,7
+115,Should you get a COVID-19 booster shot now or wait until fall? Two immunologists help weigh the options,809,original,0,9,18
+4,Qatar's Emir Arrives in Cairo for Talks with President el-Sissi,820,gpt3,1,0,10
+8,Libya's Rival Factions Urged to Reach Agreement on Elections,823,gpt3,1,3,9
+17,Tanzania farmers struggling to keep crops alive amid global fertiliser shortage,824,gpt3,1,4,11
+20,"30,000-year-old baby woolly mammoth found in Canada",837,gpt3,1,17,7
+25,Army National Guard Faces Recruiting Crisis Amid Covid Vaccine Deadline,825,gpt3,1,5,10
+33,U.S. health authorities debate offering new COVID-19 booster shots to better match recent changes in the shape-shifting coronavirus.,826,gpt3,1,6,18
+37,Indirect Talks Between Iran and U.S. End Without Breakthrough,822,gpt3,1,2,9
+44,"Boris Johnson Proposes Bill to Override Brexit Deal, Causing divisions Within Tory Party",821,gpt3,1,1,13
+49,Revelation at Senate Hearing: Seven-State Drought crisis caused by Climate Change,834,gpt3,1,14,11
+58,"""23.4% of the Global Ocean Floor Has Been Mapped""",836,gpt3,1,16,9
+65,Nearly 20 million lives saved by COVID-19 vaccines in first year,828,gpt3,1,8,11
+69,Scientists Discover New Bacteria That's the Size of a Human Eyelash,838,gpt3,1,18,11
+73,Why American Lawns Are Bad for the Environment,832,gpt3,1,12,8
+82,"""Federal Official Warns of Severe Water Shortages in Western US""",830,gpt3,1,10,10
+88,researchers use burial dating to accurately date early human fossils,839,gpt3,1,19,10
+91,Report: U.S. Forest Service Underestimated Climate Change When Planning Controlled Burn,833,gpt3,1,13,11
+97,Japan Braces for Return of Foreign Tourists with English-Speaking Rickshaw Drivers,827,gpt3,1,7,11
+107,Climate Change Disasters Pile Up as Temperatures Continue to Rise,831,gpt3,1,11,10
+112,New evidence suggests that wildfires were present on Earth 430 million years ago.,835,gpt3,1,15,13
+117,New COVID-19 vaccines on the way: Which one should you choose?,829,gpt3,1,9,11
+2,Qatar and Egypt Work to Improve Diplomatic and Economic Ties,622,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,0,10
+10,"Libyan factions reach ""broad consensus"" in election talks",52,7WX00yoU07X1UKaG8WH0cYKB25S2,2,3,8
+13,Worldwide fertiliser shortage fuels food insecurity fears,325,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,4,7
+22,"30,000-year-old Woolly Mammoth Uncovered in Canada, First Since 1948",639,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,17,9
+24,"Amid Vaccination Requirement Enforcement and Low Recruitment, US Military Slow to let Unvaccinated Troops go",9,4G2vztY28Fee0nAkx43fXlepBSg1,2,5,15
+32,"Booster Shots Protect Us from Covid-19... For Now, Some Scientist Believe.",533,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,6,11
+36,U.S. No Closer to Nuclear Deal with Iran,384,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,2,8
+45,Northern Ireland Protocol Bill passes second reading,45,7WX00yoU07X1UKaG8WH0cYKB25S2,2,1,7
+53,Record Droughts in the Colorado River Threaten Western United States,60,7qDm7De2l7ep8kn8fz4BUF52GF32,2,14,10
+56,Data Sharing and Mapping Efforts Increase Percent of Ocean Floor Mapped to About 25%,12,4G2vztY28Fee0nAkx43fXlepBSg1,2,16,14
+64,How Scientist's Covid-19 Vaccine Steered a Devastating Pandemic,525,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,8,8
+71,Caribbean Mangrove: The Biggest Bacteria Discovered Yet,527,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,18,7
+74,American Lawn Upkeep Is Killing The Planet: How to Make Your Lawn Environment Friendly,638,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,12,14
+81,Decades of Drought Leave Western States Budgeting Water,18,4G2vztY28Fee0nAkx43fXlepBSg1,2,10,8
+84,Burial Dating Used to Estimate South African Cave Remains,78,7qDm7De2l7ep8kn8fz4BUF52GF32,2,19,9
+92,Climate Change to Blame in Largest Wildfire in New Mexico History,65,7qDm7De2l7ep8kn8fz4BUF52GF32,2,13,11
+96,"Japan Fears COVID19 Won't Go Away, Limits Number of Daily Tourists",634,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,7,11
+104,"Researchers Fear Impact of Climate Change Won't End: ""We Will Lose All Hope of Somehow Fixing the Problem""",630,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,11,18
+109,Oldest Evidence of Wildfire Identified in South Wales,79,7qDm7De2l7ep8kn8fz4BUF52GF32,2,15,8
+119,"Pfizer-BioNTech, Moderna, and Novavax Develop New COVID-19 Boosters to Keep Up with Emerging Variants",19,4G2vztY28Fee0nAkx43fXlepBSg1,2,9,14
+3,Russian agression has crippling effects as fertilizer that farmers rely on skyrockets in price.,592,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,4,14
+11,US and Iran in Stalemate after Former President Trump Pulls Out of 2015 Nuclear Deal,13,4G2vztY28Fee0nAkx43fXlepBSg1,2,2,15
+16,Technology continues to shed new light on the unseen and often unknown seafloor.,591,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,16,13
+21,"Climate change killing over 2,000 livestock in Kansas.",272,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,11,8
+24,The Colorado River: How States are Fighting the Drought,528,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,10,9
+33,Climate Change Affecting Water Supply due to Diminishing Colorado River,519,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,14,10
+37,Japanese small businesses hopeful as COVID restrictions loosen to encourage tourism.,585,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,7,11
+43,U.S. Forest Service vows to alter fire prevention strategy due to climate change,326,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,13,13
+52,Remains Discovered in South Africa Could Give Us Better Evolutionary Timeline,632,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,19,11
+59,Brexit Override Bill Causes Even More Uncertainty in the UK,515,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,1,10
+64,Miners uncover mummified wholly mammoth in NW Canada,332,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,17,8
+69,Vaccines Prevented 19.8 Million Deaths; No Explanation For Pre-Vaccine Mutations,637,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,8,10
+77,$5 billion invested into Egypt may have gone down the drain.,261,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,0,11
+82,Libya's Differences Over Voting Methods Leading to Continued Chaos,506,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,3,9
+86,Scientists Discover New Large Bacteria,507,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,18,5
+93,Scientists Say American Lawns Negatively Impact Climate Change,69,7qDm7De2l7ep8kn8fz4BUF52GF32,2,12,8
+101,"Unvaccinated National Guard troops could continue to get pay, benefits",320,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,5,10
+105,FDA to discuss fall COVID-19 booster recommendations,54,7WX00yoU07X1UKaG8WH0cYKB25S2,2,9,7
+111,U.S. health authorities ponder whether to offer new COVID boosters,322,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,6,10
+117,Scientists find oldest evidence of wildfire in South Wales,335,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,15,9
+3,Scientists say lawn maintenance is harming the environment,328,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,12,8
+7,"UN Ocean Conference Pushes Sea Maps, Hope To Forecast Climate Change",636,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,16,11
+12,US Forest Service Report: Impact of Climate Change on Southwest Underestimated,625,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,13,11
+18,Current COVID vaccine protection wanes over time,338,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,9,7
+26,"Japanese shops, restaurants, eager for return of foreign visitors ",331,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,7,9
+31,Bones that date back almost 3.7 million years ago have been found in South Africa.,275,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,19,15
+36,"Farmers straining under global fertilizer shortage, soaring costs",56,7WX00yoU07X1UKaG8WH0cYKB25S2,2,4,8
+47,"Borris Johnson's Attempt to Override Brexit Deal a ""Failure of Statecraft''",621,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,1,11
+52,New Bacterial Species Discovered in Caribbean,72,7qDm7De2l7ep8kn8fz4BUF52GF32,2,18,6
+56,Seven Western States Can Expect Diminished Water Supplies from Colorado River,399,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,14,11
+64,Army Allows Unvaccinated Troops to Keep Pay and Benefits as Fear of Losing Troops Continues,623,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,5,15
+68,COVID-19 Boosters: Getting Ahead or Following Behind?,508,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,6,7
+76,Researchers: COVID vaccines saved 20M lives worldwide,327,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,8,7
+78,Rival Libyan Factions Urged to Reach Consensus on Elections,396,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,3,9
+88,Leaders of Qatar and Egypt to talk after years of tension,321,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,0,11
+95,Drought to cut Colorado River water supply to seven states,330,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,10,10
+98,"30,000 year old Wolly Mamoth was found by miner in Northern Canada.",277,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,17,12
+106,IRAN continues to stymie efforts towards ANY Nuclear Deal.,590,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,2,9
+113,Ancient charred remains found.,278,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,15,4
+116,Heat and Humidity Kills Thousands of Cows in Kansas Reflecting Nationwide Deviations in Weather,6,4G2vztY28Fee0nAkx43fXlepBSg1,2,11,14
+4,Climate Change Causing Water Usage Restrictions in Western United States,68,7qDm7De2l7ep8kn8fz4BUF52GF32,2,10,10
+8,Choosing Best COVID Vaccine Perplexes Scientists,383,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,9,6
+17,Baby Mommoth Uncovered in Canada,66,7qDm7De2l7ep8kn8fz4BUF52GF32,2,17,5
+20,Scientists say lawns could harm the environment,44,7WX00yoU07X1UKaG8WH0cYKB25S2,2,12,7
+26,Scientists Discover Unusual Giant Bacteria,2,4G2vztY28Fee0nAkx43fXlepBSg1,2,18,5
+34,U.S. health officials debate offering new COVID-19 booster shot,43,7WX00yoU07X1UKaG8WH0cYKB25S2,2,6,9
+38,All Army National guards must have the Covid-19 vaccine. Will everyone get the vaccine ? how will this affect the National guard?,266,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,5,22
+47,COVID-19 vaccine prevented nearly 20 million deaths,55,7WX00yoU07X1UKaG8WH0cYKB25S2,2,8,7
+48,Climate Change and the Unknown Consequences on Wildfires,500,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,13,8
+54,Rising Fertilliser Prices Equals Lower Crops Around the World,526,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,4,9
+61,DECADES of man-made climate change more apparent than ever as alarm bells ring across the scientific and academic communities.,582,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,11,19
+69,No Sign of Breakthrough in Nuclear Deal Talk Between U.S. and Iran,71,7qDm7De2l7ep8kn8fz4BUF52GF32,2,2,12
+74,25 million Americans face looming water crisis in the West as climate change impacts Colorado River.,581,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,14,16
+78,Japan is ready To Flourish with Tourism after Covid-19 Restrictions,531,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,7,10
+88,Rival Libyan factions come to the table in Egypt amidst ongoing turmoil from NATO sanctioned Gadhafi ouster.,597,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,3,17
+95,"More of the ocean floor has been mapped properly, up about 23.4%",276,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,16,12
+97,Boris Johnson's Brexit Deal Still In Flux,382,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,1,7
+103,"""Burial Dating"" sheds new light on new remains of Human ancestors thought to date back almost 4 million years.",587,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,19,19
+111,Evidence Found For 430 Million Year Old Wildfire,534,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,15,8
+119,Qatar and Egypt Improving Ties,516,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,0,5
+2,Ancient Charcoal Data Reveals Vegetation and Atmosphere 400 Million Years Ago,11,4G2vztY28Fee0nAkx43fXlepBSg1,2,15,11
+10,"Global Tensions Impact Fertilizer Market, Potentially Fueling Food Scarcity",15,4G2vztY28Fee0nAkx43fXlepBSg1,2,4,9
+17,Whole Preserved Baby Wolly Mammoth Found in Canada,501,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,17,8
+21,"Climate change causing extreme weather, deadly humidity",40,7WX00yoU07X1UKaG8WH0cYKB25S2,2,11,7
+29,Burial dating says South African human ancestors lived 3.7 million years ago,49,7WX00yoU07X1UKaG8WH0cYKB25S2,2,19,12
+32,Researchers Agree Covid-19 Vaccines Saved Millions of Lives,7,4G2vztY28Fee0nAkx43fXlepBSg1,2,8,8
+40,National Army Guard Demands Soldiers to be Vaccinated against Covid-19,536,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,5,10
+45,U.S.-Iran talks fail to revive nuclear deal,324,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,2,7
+51,"After Years of Conflict, Libya Continues Talks of Elections Mediated by U.N.",5,4G2vztY28Fee0nAkx43fXlepBSg1,2,3,12
+54,Mixing COVID19 Vaccine Types Found Effective Strategy for Boosting,627,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,9,9
+62,Scientists discover bacteria species visible to naked eye,337,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,18,8
+70,Climate Change Affecting Water Supply due to Diminishing Colorado River,518,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,10,10
+72,Borris Johnson's Brexit Override Causes Controversial Opinions among World Leaders,529,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,1,10
+83,Egypt summit becomes center stage as relations brighten between Qatar and rival Arab states.,580,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,0,14
+88,Will the new and improved Covid-19 boost shots be released this fall?,267,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,6,12
+91,Japan Incrementally Reopens to Foreign Visitors after COVID-19,1,4G2vztY28Fee0nAkx43fXlepBSg1,2,7,8
+97,States are Working to Save Colorado River from Drought,538,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,14,9
+104,Mowing Your Lawn? It Might be Time to Stop,510,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,12,9
+111,Mistaken Fire-fighting Strategy Imperiled Residents in New Mexico,389,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,13,8
+119,"Mapping the Seafloor - Locals, Autonomous Technology, or Archives. How Will We Do It?",503,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,16,14
+5,"As Colorado River Reservoirs Depletion Accelerates, States Plan for Water Shortage",4,4G2vztY28Fee0nAkx43fXlepBSg1,2,14,11
+11,New Technique Backdates Human Ancestors By More than a Million Years,387,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,19,11
+12,Ever-Changing COVID-19 Vaccine and Booster Information,64,7qDm7De2l7ep8kn8fz4BUF52GF32,2,9,6
+22,Lack of Fertilizer Could Lead to Food Scarcity Around the World,511,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,4,11
+24,Water Scarcity Hits The West Since 2000 Megadrought,628,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,10,8
+30,Japan prepares for return of foreign tourists,51,7WX00yoU07X1UKaG8WH0cYKB25S2,2,7,7
+40,UK Parliament allows Johnson's Brexit deal override bill to proceed,339,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,1,10
+43,"U.S., Iran make no progress reviving 2015 nuclear deal ",46,7WX00yoU07X1UKaG8WH0cYKB25S2,2,2,9
+50,Scientists say newly discovered bacteria is largest ever seen,47,7WX00yoU07X1UKaG8WH0cYKB25S2,2,18,9
+55,We reap what we mow? Research shows keeping a tidy lawn actually can have adverse effects on our planet.,599,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,12,19
+65,"Less than 25% of ocean floor mapped, worldwide mariners urged to switch on sonar
+",53,7WX00yoU07X1UKaG8WH0cYKB25S2,2,16,14
+66,President El-Sissi Hosts Qatar to Discuss Diplomatic and Economic Relations,62,7qDm7De2l7ep8kn8fz4BUF52GF32,2,0,10
+73,"Wildfires a way of life for nearly 450 million years, new evidence shows.",583,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,15,13
+81,Spring heat wave is latest evidence of climate change,333,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,11,9
+86,Amazing' Discovery Made of Woolly Mammoth in Canada,385,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,17,8
+94,"20 million lives were saved due to the covid-19 shot, but many more deaths could have been prevented...",270,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,8,18
+98,U.S. Forest Service Botches Prescribed Burn Due to Climate Change,17,4G2vztY28Fee0nAkx43fXlepBSg1,2,13,10
+105,"Unvaccinated National Guard soldiers could face lost pay, expulsion",50,7WX00yoU07X1UKaG8WH0cYKB25S2,2,5,9
+109,World Leaders Hope for Peaceful Talks with Libya Leaders this Week,539,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,3,11
+115,Changing Nature of Coronavirus Baffles Scientists and Vaccine Makers Alike,393,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,6,10
+0,Health Authorities in Debate on Modifying Current COVID-19 Boosters,61,7qDm7De2l7ep8kn8fz4BUF52GF32,2,6,9
+10,"30,000 Baby Wolly Mammoth Stuns Scientists",520,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,17,6
+14,US and Iran Discuss Nuclear Deals,535,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,2,6
+20,"COVID-19 Vaccine Saves Lives, But How Many More Lives Could it Have Saved?",504,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,8,13
+24,10% of Army National Guard Soldier Remain Unvaccinated Passed Deadline,76,7qDm7De2l7ep8kn8fz4BUF52GF32,2,5,10
+32,Climate Change and Human Error Causing Forest Fires,522,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,13,8
+38,Want to Help Save the Planet? Say Goodbye to your Lawn,532,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,12,11
+45,Vaccine availability and stability strengthen the fight among ever-mutating Coronavirus.,598,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,9,10
+48,Dating Wildfires Back 430 Million Years Reveals Earth's Oxygen Levels,392,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,15,10
+54,25 Million Face Losing Access to Colorado River After Megadrought Since 2000,626,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,14,12
+62,UN hoping for breakthrough in Libyan election talks,334,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,3,8
+66,"Loss of 2,000 Cows Latest Evidence of Climate Change",381,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,11,9
+74,Quatar and Egypt Leaders Discuss Relations,537,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,0,6
+82," The key ingredient to growing crops in a shortage, could cost farmer their homes and consumers could see a shortage to.   ",265,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,4,21
+88,Seven states face water supply cuts due to low Colorado River reservoir levels,59,7WX00yoU07X1UKaG8WH0cYKB25S2,2,10,13
+91,Discovery of Larger than Normal Bacteria Challenges Limits to its Existence,388,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,18,11
+96,Japan adding English staff.Could this possibly help the language barrier with tourism ?,264,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,7,13
+106,Brexit deals confusion from Commons to Parliament as sides dig in.,584,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,1,11
+111,Sea Maping Update from the UN Conference,524,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,16,7
+117,Archeologists Use New Burial Dating Techniques on Human Ancestors,521,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,19,9
+1,Could lawn care be contributing to the climate change and water pollution? Over 40 million acres of just green grass.,274,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,12,20
+10,Completely intact frozen baby mammoth sparks fascination in Paleontologist community.,595,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,17,10
+15,Researchers Frustrated After COVID19 Variant-Proof Vaccine Attempts Fail,633,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,6,8
+20,"Boris Johnson's Proposal to Override Brexit Criticized by Conservative Party, Tories, Legal Experts, and EU leaders Alike",16,4G2vztY28Fee0nAkx43fXlepBSg1,2,1,17
+24,Seafloor Map Update Given at Second UN Ocean Conference,75,7qDm7De2l7ep8kn8fz4BUF52GF32,2,16,9
+31,Qatar and Egypt Meet to Discuss Diplomacy and Economics,0,4G2vztY28Fee0nAkx43fXlepBSg1,2,0,9
+38,Global Fertilizer Shortage Fuels Fears of Food Scarcity,397,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,4,8
+43,Drought to cut water supply to Western states,323,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,14,8
+53,Refusal to Get Vaccinated a Concern for Maintaining National Guard Levels,398,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,5,11
+54,Climate Change is Wrecking Havoc on our Planet- And Humans are to Blame,530,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,11,13
+62,Arms Experts Believe US Exit Could Allow Weapons-Graded Uranium To Go Undetected by UN,620,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,2,14
+68,Eye-popping bacteria found in mangroves stuns biologists.,596,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,18,7
+74,Signs of Returning Tourism Heartens Japanese Merchants,391,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,7,7
+78,"COVID vaccines save millions, but more could have been done.",593,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,8,10
+84,"Public is concerned on the ""mix and match"" covid-19 booster shots. Are they really necessary? ",268,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,9,15
+92,"Oldest Evidence of Wildfire Found in South Wales, And Its Fungus",631,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,15,11
+97,"Libya-Cairo Deal ""Commendable"" After Decade of Conflict",624,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,3,7
+106,Controlled burn expands to largest wildfire in state history,57,7WX00yoU07X1UKaG8WH0cYKB25S2,2,13,9
+110,25 Million Americans could face water crisis as climate change continues to impact the West.,589,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,10,15
+117,Burial Dating: The New Technique Helps More Accurately Determine the Evolution of Mankind,505,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,19,13
+4,Northern Ireland Protocol Bill Passing Causes Debate in House of Commons,67,7qDm7De2l7ep8kn8fz4BUF52GF32,2,1,11
+10,Emir's Visit to Egypt Signals Qatar's Warming Relations,380,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,0,8
+12,Numbers Show COVID-19 Effective at Saving Lives,70,7qDm7De2l7ep8kn8fz4BUF52GF32,2,8,7
+22,Japan to Slowly Open Up To Tourists,512,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,7,7
+28,Drought and Death Brought Forth by Climate Change and Record High Temperatures,63,7qDm7De2l7ep8kn8fz4BUF52GF32,2,11,12
+30,Welsh scientists discover evidence of prehistoric fungal wildfire,58,7WX00yoU07X1UKaG8WH0cYKB25S2,2,15,8
+38,"Warmer, Drier West' Leads States to Conserve Water Levels",394,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,10,9
+44,Iran and U.S. Talks in Deadlock,517,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,2,6
+52,"Colorado River reservoirs drop to ""critical levels"" ",41,7WX00yoU07X1UKaG8WH0cYKB25S2,2,14,7
+59,Controlled wildfire turns explodes and turns into the largest fire New Mexico has seen.,269,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,13,14
+63,Lawns and Their Maintenance Contribute to Climate Change Danger,395,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,12,9
+71,"Hifter, a military leader announced to run in December's elections.",262,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,3,10
+76,"As COVID looks to become Endemic, authorities weigh new rounds of boosters this fall.  ",588,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,6,14
+82,Increased Mapping of Global Ocean Floor Aids Safe Navigation,386,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,16,9
+88,ARMY still silent on whether un-vaxxed will be forced out.,586,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,5,10
+92,Already Have a COVID-19 Vaccine? It Might be Time for Another One,502,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,9,12
+99,Mummified mammoth discovered in Canadian permafrost,48,7WX00yoU07X1UKaG8WH0cYKB25S2,2,17,6
+102,Newly Discovered Caribbean Bacteria 5000 Times Bigger Than Most Others,635,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,18,10
+109,Scientists: Burial dating shows early human fossils older than previously believed,329,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,19,11
+117,African Countries Face Fertilizer Shortage,74,7qDm7De2l7ep8kn8fz4BUF52GF32,2,4,5
+4,The largest reservoirs in the United States will see a huge decrease in water delivery. This will effect the water supply and Americans may have to cut back on their water usage.,271,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,10,32
+6,Qatari and Egyptian leaders meet ahead of President Biden's visit,42,7WX00yoU07X1UKaG8WH0cYKB25S2,2,0,10
+14,Seafloor maps are improving,336,Wx36eLMUh5MenqUT6Un7QYDhP5c2,2,16,4
+23,"Supply Chain Issues Hits Fertiliser Supply: UN Reports Costs Tripled, Supply Nearly Cut In Half",629,s4wcn5qAGNXbBA81IwDOZEdbNJU2,2,4,15
+26,Rethinking Lawns: More Sustainable Options out there,10,4G2vztY28Fee0nAkx43fXlepBSg1,2,12,7
+35,Troops to Face No Consequences For Being Unvaccinated,513,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,5,8
+36,Innovative Fossil Dating Technique Sheds Light on Early Human Evolution,8,4G2vztY28Fee0nAkx43fXlepBSg1,2,19,10
+43,How the Covid Vaccine Works and Continues to Improve,523,oniGMuSHR1Uxz4qKvfoKSPke6Z32,2,9,9
+53,In the next year Colorado will see sever cuts in water supply.,273,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,14,12
+54,Japan Prepares for American Tourists,77,7qDm7De2l7ep8kn8fz4BUF52GF32,2,7,5
+63,Limited Global Vaccine Availability Costs Innumerable Lives,390,Z1Iwjxc3JTVX87gD9pHXNdu3ubs2,2,8,7
+71,Oldest Known Wildfire Reveal Information About Oxygen During the Silurian Period,514,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,15,11
+74,Miners Uncover Rare Preserved Baby Wooly Mammoth in Canada,3,4G2vztY28Fee0nAkx43fXlepBSg1,2,17,9
+80,This is the biggest discover yet ! A new species of bacteria found. how can this help us in the future?,279,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,18,21
+84,Upcoming Geneva Convention to Discuss Transitioning of Elections in Libya,73,7qDm7De2l7ep8kn8fz4BUF52GF32,2,3,10
+92,Forest Service UNcontrolled burn leads to states largest ever fire as officials in New Mexico grapple with ongoing drought conditions.,594,rAr3YBThR4V4YjEjdQMlgbDh3u82,2,13,20
+100,United Kingdom fears their reputation may be damaged.,260,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,1,8
+104,US Government Considers Offering Updated COVID-19 Vaccinations for Protections Against New Variants,14,4G2vztY28Fee0nAkx43fXlepBSg1,2,6,12
+113,Efforts to revive a 2015 nuclear deal.,263,PGukHs4VgoemVfQ8IXeBB4GNrxn2,2,2,7
+114,Humidity: A Deadly Effect of Climate Change,509,oiSOL7I2jnXllXIzwSuF7VwmaVu1,2,11,7
+3,Qatari Emir Arrives in Cairo For First Visit in Years,785,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,0,10
+6,UN Political Chief Urges Libya's Rival Factions to Agree on Elections,663,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,3,11
+16,Fertiliser prices sky-rocket amid Russia-Ukraine conflict,570,qiebo7O3TBach9qu1AqrWu2cAB23,3,4,6
+23,Baby Woolly Mammoth Found Mummified in Yukon,670,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,17,7
+29,commanders may allow unvaccinated troops to stay for now,772,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,5,9
+31,US Health Authorities To Discuss Offering New COVID Booster Shots,173,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,6,10
+41,Doha Talks End Without Progress on Nuclear Deal,569,qiebo7O3TBach9qu1AqrWu2cAB23,3,2,8
+43,EU trade War Looms as Boris Johnson Pushes for Changes to Brexit Deal,25,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,1,13
+50,Drought Conditions Grip Western US,30,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,14,5
+54," Better seafloor maps help us with navigation and conservation, among many other uses",293,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,16,13
+60,Million Lives Saved by COVID Vaccines in First Year,452,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,8,9
+70," Scientists find largest bacterium to date, challenging what we know about microbes!",555,pYsoPM0aang4pLBPqHbUlrc285Y2,3,18,12
+75,The massive environmental cost of America's love affair with lawns,179,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,12,10
+83,Federal official warns of water cuts to seven states next year due to diminishing reservoirs,558,pYsoPM0aang4pLBPqHbUlrc285Y2,3,10,15
+87,Computer Science Helps Solve Ancient Puzzle,552,pYsoPM0aang4pLBPqHbUlrc285Y2,3,19,6
+90,The Forest Service will have to more effectively factor climate change into its plans,656,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,13,14
+101,Rickshaw men in Tokyo add English-speaking staff in preparation for return of foreign tourists,661,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,7,14
+106,Climate change causing more extreme weather events,793,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,11,7
+111,Charred Remains Suggest That Wildfires Occurred  Million Years Ago,796,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,15,9
+116,Mixing and matching existing vaccine types is safe and effective,445,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,9,10
+4," Amid Global Fertilizer Shortage, Tanzania's Farmers Struggle to Keep Crops Alive",160,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,4,11
+10,US and Iran at impasse as nuclear deal talks stall,440,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,2,10
+13,Mapping the Seafloor: Importance for Navigation and Conservation,167,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,16,8
+22,Cows Drop Dead in Kansas Feedlot Amid Record-Breaking Heat Wave,659,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,11,10
+27,Federal Official Warns of Major Cuts to Colorado River Water Supply,784,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,10,11
+31,Drought conditions cause water shortages across the West,557,pYsoPM0aang4pLBPqHbUlrc285Y2,3,14,8
+41,Rickshaw Men in Tokyo Prepare for Return of Foreign Tourists,795,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,7,10
+46,The Forest Service Made Mistakes in Planning a Controlled Burn in New Mexico,454,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,13,13
+49,Scientists uncover new evidence of earliest human ancestors,172,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,19,8
+57,UK MPs vote to allow Boris Johnson's Brexit bill to proceed,442,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,1,11
+61," ,-Year-Old Woolly Mammoth calf Mummy Found in Canada",26,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,17,8
+66,"COVID vaccines prevented catastrophic outcomes, study finds",285,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,8,7
+75,Qatari Emir Arrives in Cairo for Talks with President el-Sissi,672,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,0,10
+81,Libya's Rival Factions Urged to Agree on Transition to Elections,28,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,3,10
+88,"A new species of bacteria, visible to the naked eye, has been discovered in Caribbean mangroves",162,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,18,16
+91,Lawns are a bigger environmental problem than you think,33,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,12,9
+96,Army National Guard reaches vaccinate deadline; thousands still unvaccinated,568,qiebo7O3TBach9qu1AqrWu2cAB23,3,5,9
+104,New bivalent vaccines from Moderna and Pfizer-BioNTech to compete in market this fall,295,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,9,13
+109,Moderna and Pfizer test updated shots against omicron variant,299,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,6,9
+115,Forest of Giant Fungi Went Up in Flames  Million Years Ago,553,pYsoPM0aang4pLBPqHbUlrc285Y2,3,15,11
+5,The ecological drawbacks of lawns,297,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,12,5
+8,Robot Boats May Help Map the Ocean Floor,573,qiebo7O3TBach9qu1AqrWu2cAB23,3,16,8
+17,The Forest Service will have to more effectively factor climate change into its plans,777,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,13,14
+20,More options for COVID booster shots on the way,36,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,9,9
+27,Japanese authorities take it slow with gradual relaxing of COVID restrictions,444,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,7,11
+35,Scientists use innovative 'burial dating' technique to date ancient human fossils,782,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,19,11
+37,Global Fertilizer Shortage Threatens Food Security in Africa,788,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,4,8
+45,Boris Johnson's Bill to Override Brexit Deal Progresses to Next Stage,284,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,1,11
+53,Largest bacteria ever seen challenges limits of what microbes can look like,668,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,18,12
+57,Federal official warns of water shortages in Western US,564,qiebo7O3TBach9qu1AqrWu2cAB23,3,14,9
+62,Unit commanders may be allowed to keep unvaccinated troops if they complete their administrative processes,280,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,5,15
+69,FDA to debate if updated COVID booster shots are necessary,38,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,6,10
+72,Even more deaths could have been prevented if international vaccination targets had been met,641,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,8,14
+81,UN urges Libya's rival factions to agree on election measures,790,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,3,10
+87,Emir Tamim bin Hamad Al Thani visits Egypt after years of strained relations,298,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,0,13
+90,Federal Official Warns of Severe Water Cuts for  States,286,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,10,9
+101," Preserved remains of ,-year-old baby woolly mammoth discovered in Canada",458,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,17,10
+102," Indirect talks between Iran and the US have ended in Doha, Qatar, with no sign of a breakthrough in efforts to revive a  nuclear deal, raising the risk of a potential confrontation with Tehran in coming months",797,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,2,37
+110,Ancient evidence of wildfire found in South Wales,451,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,15,8
+115,Lethal 'Wet-Bulb' Effect Grips Nation Amid Record-Breaking Heat Wave,560,qiebo7O3TBach9qu1AqrWu2cAB23,3,11,9
+0,Federal official warns of significant water cuts to Western states next year,762,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,10,12
+10,Mixing and matching COVID vaccines may provide more robust protection,660,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,9,10
+12,Preserved baby woolly mammoth found in Yukon permafrost,281,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,17,8
+21,million acres of turf grass contributing to water pollution and climate change,676,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,12,12
+28,New 'Super Bacteria' Could Be as Big as Human Eyelashes,290,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,18,10
+35,US Health Authorities Facing Critical Decision on Updated COVID Booster Shots,792,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,6,11
+39,Army National Guard tries to Avoid Recruiting Crisis by Allowing Unvaccinated Soldiers to Stay,554,pYsoPM0aang4pLBPqHbUlrc285Y2,3,5,14
+43,Researchers: even more deaths could have been prevented if international targets for shots had been reached,31,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,8,16
+52," Climate change is leading to more frequent and intense wildfires, Forest Service Chief warns",550,pYsoPM0aang4pLBPqHbUlrc285Y2,3,13,14
+55,Tanzanian farmers battle to keep business alive amid global fertiliser shortage,644,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,4,11
+65,American West Dries Up in Alarming New Trend,35,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,11,8
+67,Indirect Talks Between Iran and the US End Without a Breakthrough,171,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,2,11
+75,Federal Official Warns of Reduced Water Allotments From Colorado River,653,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,14,10
+80,Japanese City of Asakusa Prepares for Return of Foreign Tourists,650,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,7,10
+86,UN Urges Libya's Rival Factions to Agree on Elections Transition Measures,540,pYsoPM0aang4pLBPqHbUlrc285Y2,3,3,11
+93,communities crucial to mapping the seafloor,649,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,16,6
+98,PM Johnson's Brexit Bill Faces Opposition from Within His Own Conservative Party,164,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,1,12
+105,Early human ancestors found to be much older than previously thought,761,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,19,11
+113,Scientists identify charred remnants from  million years ago,32,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,15,8
+115,Egyptian President Welcomes Qatari Emir for Improved Bilateral Relations,562,qiebo7O3TBach9qu1AqrWu2cAB23,3,0,9
+0,Charcoal Traces Suggest Giant Fungi Burned in Ancient Wildfire,766,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,15,9
+6,Africa at High Risk for Food Scarcity Due to Fertilizer Shortage,770,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,4,11
+13," Nun cho ga, Preserved Woolly Mammoth calf found in Canada ",781,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,17,10
+18,Thousands of Cows Dead in Kansas Amid Record-Breaking Heat Wave,673,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,11,10
+25,Burial Dating Method Could Help Better Chronicle Human Evolution,664,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,19,9
+33,Millions more deaths could have been prevented if vaccination targets had been met,559,pYsoPM0aang4pLBPqHbUlrc285Y2,3,8,13
+36,Army National Guard unvaccinated troops face potential expulsion; many commanders may allow troops to continue receiving pay and benefits,22,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,5,19
+43,Indirect talks between Iran and the US end without breakthrough,283,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,2,10
+50,UN political chief urges Libyan factions to agree on measures for forthcoming elections,165,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,3,13
+56,New bivalent vaccines announced by Moderna and Pfizer-BioNTech,170,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,9,8
+60," Scientists find bacteria with internal membranes, encased DNA",654,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,18,8
+71," Drought Conditions Worsen, Reservoirs Drop to Critical Levels",29,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,10,8
+75,Boris Johnson's Bill to Override Brexit Deal Faces Criticism from MPs,768,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,1,11
+82,Qatar and Egypt to discuss regional issues ahead of President Biden's anticipated trip to the Middle East,441,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,0,17
+89," Scientists Urge for Better, More Variant-Proof Vaccines",765,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,6,7
+93,The Japanese tourism industry post-COVID,282,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,7,5
+99,Federal Official Warns of Looming Water Shortages,787,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,14,7
+106," The dark side of the American lawn: pollution, climate change, and loss of biodiversity",779,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,12,14
+110," Forest Service must adapt to climate change to prevent future disasters, report says",169,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,13,13
+117," Slowly but surely, more of the global ocean floor is being mapped Better seafloor maps help us with navigation, conservation, and many other uses Sea maps are essential for safe navigation, but also for fisheries management and conservation",457,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,16,38
+4,Drought conditions in the West continue to worsen,776,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,14,8
+8,New dating technique sheds light on human evolution,577,qiebo7O3TBach9qu1AqrWu2cAB23,3,19,8
+16,New booster shots on the way to extend COVID protection,763,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,9,10
+19,Fertiliser shortage leaves Tanzania farmers struggling to keep crops alive,546,pYsoPM0aang4pLBPqHbUlrc285Y2,3,4,10
+28,Federal official warns of significant water cuts to seven states next year,174,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,10,12
+34,Daikichi kimono rental shop in Asakusa thrilled at the prospect of foreign visitors returning,774,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,7,14
+36,Boris Johnson's Brexit bill survives challenge from own party,674,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,1,9
+44,US and Iran at impasse in nuclear deal revival efforts,657,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,2,10
+52,Caribbean Mangrove Yields New Type Of Bacteria That Can Be Seen With The Naked Eye,571,qiebo7O3TBach9qu1AqrWu2cAB23,3,18,15
+59,The dark side of the American lawn: how our obsession is harming the environment,645,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,12,14
+63,Over % of global ocean floor now mapped,780,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,16,8
+70,Qatari Emir Arrives in Cairo for Talks With President El-Sissi,163,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,0,10
+76,Ancient Mudstone Holds Clues to Earliest Evidence of Wildfire,561,qiebo7O3TBach9qu1AqrWu2cAB23,3,15,9
+80,Cows Collapse and Humans Suffer in Severe Heat Wave,288,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,11,9
+87,A Stunningly Preserved Woolly Mammoth Calf Discovered in Northwestern Canada,764,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,17,10
+93,million lives saved by COVID vaccines in first year,771,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,8,9
+97,Climate change leads to more intense wildfires,798,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,13,7
+103,Army National Guard soldiers facing potential expulsion if they do not get vaccinated for Covid Unit commanders may be allowed to keep unvaccinated troops if they are struggling to meet recruiting goals The Army is hoping to vaccinate all of its National Guard members to avoid separations,791,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,5,47
+111,UN Urges Libya Rivals to Agree on Transition to Elections,443,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,3,10
+118,US Health Authorities Weigh Pros and Cons of Updated COVID Booster Shots,566,qiebo7O3TBach9qu1AqrWu2cAB23,3,6,12
+4,New booster shots may offer better protection against COVID variants,679,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,6,10
+11,Most complete and best-preserved woolly mammoth ever found in North America,175,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,17,11
+15," US and Iran end indirect talks without agreement, raising concerns ofinstead return to nuclear deal",21,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,2,15
+23,COVID vaccination campaign prevented millions of deaths,667,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,8,7
+25,Army National Guard soldiers required to be vaccinated against Covid,643,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,5,10
+30,Forest Service Will Have to Better Factor Climate Change into Plans,669,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,13,11
+41," Lawns are worst choice for ecological sustainability, says expert",551,pYsoPM0aang4pLBPqHbUlrc285Y2,3,12,9
+44,New vaccines on the way to extend COVID protection,576,qiebo7O3TBach9qu1AqrWu2cAB23,3,9,9
+52,Geologists find evidence of fire from  million years ago,161,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,15,9
+59,Drought in the West: Federal Official Warns of Critical Levels at Major Reservoirs,678,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,14,13
+60,UN Urges Libya's Rival Factions To Agree On Transition To Elections,572,qiebo7O3TBach9qu1AqrWu2cAB23,3,3,11
+68,Record-Breaking Temperatures and Humidity grip US,769,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,11,6
+77,Qatari emir visits Egypt after years of frayed ties,775,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,0,9
+81," Cost of fertiliser skyrockets, putting Tanzania's farmers in danger",665,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,4,9
+86,Federal official warns of water cuts to seven states next year due to diminished Colorado River reservoirs,578,qiebo7O3TBach9qu1AqrWu2cAB23,3,10,17
+93,Scientists discover new bacteria species that can be seen with the naked eye,783,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,18,13
+101,Rickshaw Men in Tokyo Prepare for Return of Foreign Tourists,541,pYsoPM0aang4pLBPqHbUlrc285Y2,3,7,10
+107,UK MPs Vote To Allow Controversial Brexit Bill To Proceed,640,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,1,10
+110,"Slowly but surely, more of the ocean floor is being mapped",773,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,16,11
+116,Scientists date early human fossils using space particles,37,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,19,8
+2,Are Your Lawn Habits Contributing to Climate Change?,575,qiebo7O3TBach9qu1AqrWu2cAB23,3,12,8
+6,Archaeologists Uncover Most Complete Woolly Mammoth Specimen in North America,556,pYsoPM0aang4pLBPqHbUlrc285Y2,3,17,10
+16,US health authorities considering new COVID booster shots to better match recent changes of the shape-shifting coronavirus,542,pYsoPM0aang4pLBPqHbUlrc285Y2,3,6,17
+22,Boris Johnson's Brexit Bill Clears Hurdle Despite Opposition from MPs,565,qiebo7O3TBach9qu1AqrWu2cAB23,3,1,10
+25," Quarter of global ocean floor mapped, rising slowly but surely ",39,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,16,10
+32,Qatar and Egypt to discuss key regional issues ahead of Biden's trip to the Middle East,23,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,0,16
+41,Fertiliser shortage leaves Tanzania farmers scrambling to find solutions,292,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,4,9
+45,Record low water levels in Colorado River reservoirs force significant cuts in water supplied to  states,455,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,14,16
+48,Army National Guard facing recruiting crisis amid vaccination deadline,446,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,5,9
+55,“Wet-bulb” effect creates deadly combination of heat and humidity,453,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,11,9
+60,US and Iran deadlocked in efforts to revive  nuclear deal,671,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,2,10
+70,Scientists Find New Bacteria with Unusual Internal Structures,778,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,18,8
+76," Japan gradually loosens coronavirus restrictions, allowing foreign tourists to visit in limited numbers",168,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,7,13
+82,Million Lives Saved by COVID Vaccines in First Year,177,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,8,9
+88,New booster shots on the way to extend COVID protection,794,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,9,10
+95,The evidence of wildfire has been found to date back  million years,296,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,15,12
+100,UN chief urges Libya factions to agree on election measures,760,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,3,10
+103,Report: USFS underestimated impact of climate change in planning controlled burn,291,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,13,11
+111,Coordinated action needed to mitigate climate change,662,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,10,7
+119,New technique allows for more accurate dating of early human fossils,287,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,19,11
+3,https://wwwcnncom////politics/boris-johnson-brexit-uk-g/indexhtml target=_blank>Boris Johnson's Brexit bill faces opposition from fellow Tories,547,pYsoPM0aang4pLBPqHbUlrc285Y2,3,1,10
+8,Qatari emir arrives in Cairo for long-awaited talks with president,642,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,0,10
+17,Study underscores both achievements and limitations of global vaccination campaign,574,qiebo7O3TBach9qu1AqrWu2cAB23,3,8,10
+20,Japanese Businesses Excited for Return of Foreign Tourists After COVID Lockdown,563,qiebo7O3TBach9qu1AqrWu2cAB23,3,7,11
+24,Colorado River dwindling due to extreme drought,176,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,11,7
+34,Fossilised evidence of fires shows oxygen levels were higher  million years ago,655,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,15,12
+40,Federal Official Warns Of Necessary Water Cuts To Western States,647,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,10,10
+42,US and Iran fail to reach agreement on reviving nuclear deal,545,pYsoPM0aang4pLBPqHbUlrc285Y2,3,2,11
+50,Federal Official Warns of Signficant Water Cuts to Seven Western States,166,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,14,11
+58,Forest Service Chief: Climate change is leading to conditions on the ground we have never encountered,27,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,13,16
+62,Want to Help the Environment? Start by Rethinking Your Lawn,449,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,12,10
+66,Progress Made in Libya talks as Factions Agree on Some Points,648,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,3,11
+74,New COVID booster shots offer hope for better protection against variants,658,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,6,11
+78,Better seafloor maps help us with navigation and conservation,666,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,16,9
+85,Army National Guard struggling to meet recruiting goals amid Covid vaccine deadline,675,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,5,12
+90,Clinical studies show mixing and matching vaccines is safe and effective,646,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,9,11
+96,Baby mammoth found nearly whole and frozen in permafrost in Canada,651,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,17,11
+107,New species of bacteria is largest discovered to date,456,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,18,9
+111,New dating technique sheds light on early human ancestor fossils,459,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,19,10
+114," Price of Fertilizer Triples Globally, Impacting Farmers in Tanzania",20,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,4,9
+5,climate change: the new reality of water shortages in the west,450,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,10,11
+10,Qatar's Emir Visits Egypt for Talks with President el-Sissi,549,pYsoPM0aang4pLBPqHbUlrc285Y2,3,0,9
+17,UN Ocean Conference encourages open sharing of seafloor mapping data,543,pYsoPM0aang4pLBPqHbUlrc285Y2,3,16,10
+20,Crisis Fuelling Fears of Food Scarcity Across Africa,447,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,4,8
+27,The Negative Environmental Impact of Lawns,799,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,12,6
+33,Army officials hopeful that some of the unvaccinated Guard soldiers will get their vaccine,178,DfOjhf1GRSZRb9Me3GpdSoJ5Rmp1,3,5,14
+37,Researchers Find that Early Humans Lived Earlier than Previously Thought,652,sMExRMBJO2MNl0xTfoKBQwuWYIG3,3,19,10
+46,-New COVID vaccines offer more options for boosting immunity,544,pYsoPM0aang4pLBPqHbUlrc285Y2,3,9,9
+48,Federal officials warn of significant water supply cuts to  states,289,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,14,10
+59,Japan Braces for Return of Foreign Tourists,24,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,7,7
+64,Study finds COVID vaccines prevented  million deaths globally in first year,786,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,8,11
+69," Giant fungi responsible for ancient wildfires, new evidence shows",677,u5XZg2dMCLUHIVhZ0i9TZIesPx43,3,15,9
+75,Completely preserved mammoth calf entombed in permafrost for millennia,567,qiebo7O3TBach9qu1AqrWu2cAB23,3,17,9
+83,This new bacteria is the biggest ever seen and it's right under our noses,34,7JxCyzwb75XSvEX7Bd8owuOlaPN2,3,18,14
+85,Libyan factions urged to agree on measures for transition to elections,294,Q7vRyymjPXPsRTFcFU1pLE6s1Q63,3,3,11
+95," Drought, extreme weather, and unpredictable weather changes make it difficult to use prescribed fire as a tool to combat destructive fires",579,qiebo7O3TBach9qu1AqrWu2cAB23,3,13,21
+101,UK MPs vote to allow Boris Johnson's Brexit bill to proceed,789,zcTj1C8lA5hhXbeimKr2rjgIfWu2,3,1,11
+105,FDA to debate offering new COVID booster shots,448,dOa9iEjV8abyeuFqAcEpiOn34hw1,3,6,8
+112,EU Diplomat: Intense Talks Fail to Bring Progress on Iran Nuclear Deal,767,y4Jkz9bu0IfHkFpBhXhTmcYiV0h1,3,2,12
+118,Senators sound alarm on Colorado River crisis as water levels continue to decline,548,pYsoPM0aang4pLBPqHbUlrc285Y2,3,11,13
+1,Qatar and Egypt Look to Improve Relations Ahead of Biden's Middle East Trip,464,lSToD6u7LuZJk20NqhMUk3jy22S2,4,0,13
+7,UN Urges Libya Rivals to Seek Consensus Ahead of Geneva Talks,462,lSToD6u7LuZJk20NqhMUk3jy22S2,4,3,11
+12,Global fertilizer prices skyrocketing due to Russia-Ukraine conflict,89,7vtosds1eTQWx6qaDn5FwExnVR63,4,4,8
+19,Baby woolly mammoth found frozen in permafrost in Canada,463,lSToD6u7LuZJk20NqhMUk3jy22S2,4,17,9
+28," Army National Guard misses Covid vaccine deadline, faces recruiting crisis",245,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,5,10
+30,-FDA to decide within days if new COVID booster shots are warranted,471,lSToD6u7LuZJk20NqhMUk3jy22S2,4,6,12
+40," Iran, US end nuclear deal talks without breakthrough",439,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,2,8
+46,Boris Johnson's Brexit Bill Clears Hurdle in House of Commons,610,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,1,10
+52," Drought Hits the Colorado River Hard,  States to Feel the Effects",438,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,14,11
+59,Ocean Floor Mapping Progressing Slowly but Surely,307,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,16,7
+62,Worldwide vaccination effort averts millions of deaths,366,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,8,7
+68,Scientists discover new species of giant bacteria,475,lSToD6u7LuZJk20NqhMUk3jy22S2,4,18,7
+77,From water pollution to climate change: the hidden environmental cost of America's lawns,368,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,12,13
+79,Lack of action on climate change leads to water shortages on Colorado River,360,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,10,13
+89,Burial Dating Method Reveals New Details About Early Humans,255,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,19,9
+94,-US Forest Service made several mistakes in planning New Mexico prescribed burn,481,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,13,12
+99,Tokyo's Rickshaw Men Prepare for Return of Foreign Tourists,374,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,7,9
+103,Cattle Killed by Record-Breaking Heat Wave in Kansas,81,7vtosds1eTQWx6qaDn5FwExnVR63,4,11,8
+110,Wildfires May Have Helped Raise Oxygen Levels on Earth,611,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,15,9
+114,New vaccines on the way offer better protection against COVID variants and subvariants,365,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,9,13
+2,Tanzania farmers struggle to keep crops alive amid global fertiliser shortage,314,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,4,11
+8,Stalemate in Iran nuclear talks,470,lSToD6u7LuZJk20NqhMUk3jy22S2,4,2,5
+15,Mapping the seafloor: vital for navigation and climate change,496,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,16,9
+23,Climate change is a reality we can no longer ignore,305,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,11,10
+29,Ongoing drought leaves Colorado River reservoir levels dangerously low,83,7vtosds1eTQWx6qaDn5FwExnVR63,4,10,9
+34,States Dependent on Colorado River Facing Drought Conditions,608,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,14,8
+36," COVID Restrictions Gradually Loosening in Japan, Allowing for Return of Tourists",432,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,7,11
+44,The Forest Service will have to more effectively factor climate change into its plans,312,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,13,14
+51," Using burial dating, researchers find that early human ancestors lived  million years ago",84,7vtosds1eTQWx6qaDn5FwExnVR63,4,19,13
+55," UK MPs vote to override Brexit deal, risking trade war with EU",211,LThoEJBs8INX22KfDMJT09LBP8F2,4,1,12
+65,Stunningly preserved mammoth calf found in Yukon permafrost,94,7vtosds1eTQWx6qaDn5FwExnVR63,4,17,8
+67," COVID vaccine prevents millions of deaths, but even more could be saved with better access",482,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,8,15
+73,Qatar and Egypt Strengthen Ties With $ Billion Investment,301,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,0,9
+83,UN political chief urges Libya factions to agree on election transition,90,7vtosds1eTQWx6qaDn5FwExnVR63,4,3,11
+85,New Bacteria Species Challenges Limits of What Bacteria Can Look Like,483,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,18,11
+90,The Hidden Environmental Costs of Caring for a Lawn,99,7vtosds1eTQWx6qaDn5FwExnVR63,4,12,9
+97,Army National Guard struggling to meet vaccine deadline amid recruiting crisis,615,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,5,11
+102,New COVID vaccines provide long-lasting protection against variants,469,lSToD6u7LuZJk20NqhMUk3jy22S2,4,9,8
+112,Moderna and Pfizer test updated shots against omicron variant,601,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,6,9
+118,Fire in the Silurian: Evidence of the Earliest Wildfires Found in Wales,727,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,15,12
+1,Lawns are a net contributor to climate change here's what you can do to help,422,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,12,15
+9,The importance of mapping the ocean floor,207,LThoEJBs8INX22KfDMJT09LBP8F2,4,16,7
+14,US Forest Service made several mistakes in planning New Mexico prescribed burn,205,LThoEJBs8INX22KfDMJT09LBP8F2,4,13,12
+22," COVID  Vaccines: Immunities Wane Over Time, Booster Shots Necessary",495,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,9,9
+24,Japanese Tourism Begins to Rebound Following Pandemic,93,7vtosds1eTQWx6qaDn5FwExnVR63,4,7,7
+34,Early human fossils in South African cave found to be  million years old,434,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,19,13
+39,African Farmers Battle Global Fertilizer Shortage,467,lSToD6u7LuZJk20NqhMUk3jy22S2,4,4,6
+42,House of Commons Votes to Allow Boris Johnson's Bill to Proceed,309,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,1,11
+49,New species of bacteria has membranes organizing its insides,315,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,18,9
+55,-Drought forces significant cuts to Colorado River water supply,369,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,14,9
+61,Army National Guard Vaccination Deadline Passes with Thousands Unvaccinated,319,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,5,9
+66,Updated COVID shots may help protect against future surges,499,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,6,9
+73," , Additional Deaths Averted If WHO Target of % Vaccination Coverage Had Been Met",474,lSToD6u7LuZJk20NqhMUk3jy22S2,4,8,14
+83,Libyan factions agree on constitutional measures to pave way for elections,200,LThoEJBs8INX22KfDMJT09LBP8F2,4,3,11
+84,Qatari Emir's Visit To Cairo Aims To Improve Bilateral Relations,86,7vtosds1eTQWx6qaDn5FwExnVR63,4,0,10
+93,Water Shortages Looming for Seven States,619,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,10,6
+97,Baby Woolly Mammoth Found Nearly Whole in Canada,489,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,17,8
+105,Talks between Iran and US end without breakthrough,612,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,2,8
+109,Prototaxites: The -Million-Year-Old Pillars of Fungus That May Have Started Wildfires,302,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,15,11
+119," National Weather Service: , visitors to Yellowstone National Park evacuated after severe flooding",736,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,11,13
+5," Water shortages on the Colorado River to worsen next year, federal official warns",485,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,10,13
+7,Get a Booster Shot for Long-Lasting COVID  Immunity,725,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,9,8
+14,Frozen in Time: Baby Woolly Mammoth Discovered in Canadian Permafrost,308,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,17,10
+22,Americans' Obsession With Lawns is harming the Environment,219,LThoEJBs8INX22KfDMJT09LBP8F2,4,12,8
+25,New species of bacteria challenges what we know about microbes,91,7vtosds1eTQWx6qaDn5FwExnVR63,4,18,10
+32,US health authorities debate offering new COVID booster shots this fall,738,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,6,11
+36,Army National Guard soldiers face penalties for not being vaccinated,95,7vtosds1eTQWx6qaDn5FwExnVR63,4,5,10
+44,"COVID vaccines prevented deaths on an unimaginable scale, say researchers",214,LThoEJBs8INX22KfDMJT09LBP8F2,4,8,10
+53,"Climate change leads to larger, more frequent wildfires",373,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,13,8
+56,Africa's farmers hit hard by global fertilizer shortage,251,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,4,8
+64,Climate change causes extreme weather events,431,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,11,6
+70,No Progress In Efforts To Revive Iran Nuclear Deal,491,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,2,9
+72,Colorado River Drought Could Lead to Cuts for Seven States,96,7vtosds1eTQWx6qaDn5FwExnVR63,4,14,10
+81,Japan gradually relaxes border controls to allow foreign tourists back in,600,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,7,11
+89,UN urges Libya's rival factions to agree on transition to elections,361,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,3,11
+94,UN Ocean Conference highlights importance of mapping the ocean floor,423,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,16,10
+100,EU Warns UK of Trade War if Brexit Bill Becomes Law,466,lSToD6u7LuZJk20NqhMUk3jy22S2,4,1,11
+107,Researchers use burial dating to accurately date human ancestor fossils,217,LThoEJBs8INX22KfDMJT09LBP8F2,4,19,10
+109,Million-Year-Old Charred Remains Suggest Ancient Wildfires,478,lSToD6u7LuZJk20NqhMUk3jy22S2,4,15,6
+117,Qatar Emir Arrives in Cairo for Talks With President,370,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,0,9
+4,oldest evidence of wildfire found in south Wales,209,LThoEJBs8INX22KfDMJT09LBP8F2,4,15,8
+7,Fertilizer shortage leaves farmers struggling to keep crops alive,739,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,4,9
+16,Ice Age Baby Mammoth Found in Stunningly Preserved Condition,721,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,17,9
+19,Climate change is already wreaking havoc on our world,468,lSToD6u7LuZJk20NqhMUk3jy22S2,4,11,9
+24,Researchers use burial dating to accurately date early human fossils,722,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,19,10
+34," , Additional Deaths Could Have Been Prevented If Vaccination Coverage Target Had Been Met",427,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,8,14
+41,Many Unvaccinated Soldiers Face Expulsion from Army National Guard,493,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,5,9
+44,US and Iran at Stalemate in Nuclear Deal Talks,240,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,2,9
+52,UN Urges Libya Rival Factions to Agree on Election Measures,252,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,3,10
+57,New COVID  vaccines offer stronger protection against variants,304,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,9,8
+61,New species of bacteria discovered that is visible to the naked eye,724,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,18,12
+69,Ongoing drought causes water scarcity in Western United States,433,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,10,9
+74,Boris Johnson's Brexit Bill Moves Forward Despite Opposition,363,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,1,8
+78,Qatar Signs $ Billion Investment Deal with Egypt,613,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,0,8
+85,US health authorities to debate updated COVID booster shots,254,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,6,9
+90,Japan gradually relaxes restrictions on foreign visitors,244,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,7,7
+96,Federal Official: Seven States Will Need to Significantly Reduce Colorado River Water Use Next Year,728,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,14,15
+102,-Lawns contribute to water pollution and climate change,603,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,12,8
+109," The prescribed burn in New Mexico took an unexpected turn, causing the largest fire in the United States this year",461,lSToD6u7LuZJk20NqhMUk3jy22S2,4,13,20
+115,UN Ocean Conference highlights advances in seafloor mapping,97,7vtosds1eTQWx6qaDn5FwExnVR63,4,16,8
+3,Federal officials warn of looming water crisis in the American West,242,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,14,11
+9,Australopithecus remains found in South African cave are older than previously thought,477,lSToD6u7LuZJk20NqhMUk3jy22S2,4,19,12
+14,Mixing and matching vaccines is an effective strategy for boosting immunity against COVID -,430,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,9,14
+20,Fertiliser shortage could push an additional seven million people into food scarcity,206,LThoEJBs8INX22KfDMJT09LBP8F2,4,4,12
+29,Federal officials warn of water shortages from Colorado River,730,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,10,9
+31," COVID  Restrictions Ease in Japan, Allowing Limited Numbers of Tourists",494,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,7,10
+39,Boris Johnson's Brexit Bill Clears First Hurdle In House Of Commons,243,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,1,11
+45,Lack of progress in nuclear deal talks raises risk of confrontation with Iran,85,7vtosds1eTQWx6qaDn5FwExnVR63,4,2,13
+49,-Bacteria found that is the size of a human eyelash,605,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,18,10
+58,Is the American Lawn a Threat to the Planet?,479,lSToD6u7LuZJk20NqhMUk3jy22S2,4,12,9
+64,Progress at UN Ocean Conference as Mapping of Seafloor Slowly Rises,606,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,16,11
+67,Qatar's Emir arrives in Cairo for talks with President el-Sissi,201,LThoEJBs8INX22KfDMJT09LBP8F2,4,0,10
+75,-New evidence reveals that fires were started by lightning strikes millions of years ago,425,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,15,14
+78,One-third of US population advised to stay indoors to protect against potentially deadly heat wave,618,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,11,15
+88," Newly-discovered baby woolly mammoth entombs , years of history",203,LThoEJBs8INX22KfDMJT09LBP8F2,4,17,9
+92,COVID vaccines could have prevented even more deaths,614,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,8,8
+96,Forest Service report highlights mistakes leading to destructive wildfire,420,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,13,9
+102,Army National Guard soldiers facing separation for not being vaccinated,372,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,5,10
+108,UN Urges Libyan Factions to Agree on Elections Measures,487,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,3,9
+117,FDA to Debate Offering Updated COVID Booster Shots,421,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,6,8
+2,-New COVID booster shots to be debated by US health authorities,303,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,6,11
+6,Stunningly preserved baby woolly mammoth found in permafrost in Yukon,246,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,17,10
+13,Risk of potential confrontation with Iran rises as talks fail to revive nuclear deal,210,LThoEJBs8INX22KfDMJT09LBP8F2,4,2,14
+19,COVID  Vaccines Could Have Prevented Even More Deaths,250,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,8,8
+27,Army National Guard soldiers who miss vaccine deadline face expulsion,428,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,5,10
+34,US Forest Service report identifies several failings in planning of New Mexico prescribed burn,609,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,13,14
+37,A Greener Alternative to Lawns? Experts say it's time to rethink our love of grass,723,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,12,15
+46,More options for COVID  vaccines coming soon,213,LThoEJBs8INX22KfDMJT09LBP8F2,4,9,7
+53,Earliest Evidence of Wildfire Found in Charred Remnants from  Million Years Ago,367,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,15,12
+58,Federal official warns of water shortage crisis for  states,204,LThoEJBs8INX22KfDMJT09LBP8F2,4,14,9
+65,UN urges Libya factions to agree on measures for transition to elections,437,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,3,12
+69,Climate change to blame for increase in extreme weather events,208,LThoEJBs8INX22KfDMJT09LBP8F2,4,11,10
+73,Qatar's emir arrives in Cairo for talks with Egypt's president on bilateral relations,480,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,0,13
+80,Fertilizer Shortage Threatens African Farmers,492,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,4,5
+89,Ongoing drought causes water scarcity in Western US,216,LThoEJBs8INX22KfDMJT09LBP8F2,4,10,8
+94,Largest bacteria species ever discovered challenges what we know about microbes,248,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,18,11
+99,COVID  restrictions slowly loosening in Japan for return of foreign tourists,735,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,7,11
+102,-Boris Johnson's Brexit Bill Survives Challenge in House of Commons,92,7vtosds1eTQWx6qaDn5FwExnVR63,4,1,10
+109,New Technology to Help map the World's Oceans,460,lSToD6u7LuZJk20NqhMUk3jy22S2,4,16,8
+119,Fossils provide new insights into human evolution,316,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,19,7
+0,It's time to rethink the American lawn,249,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,12,7
+8,Stunningly preserved mammoth calf discovered in Canada,371,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,17,7
+13,FDA to debate updated COVID booster shots amid concerns of variant spread,98,7vtosds1eTQWx6qaDn5FwExnVR63,4,6,12
+18,Tory MPsDivided Over Boris Johnson's Bill to Override Brexit Deal,490,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,1,10
+26,Seabed : Map the Gap Strategy Aims to Complete Picture of Earth's Ocean Bottom,247,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,16,14
+33,Qatari Emir meets with President el-Sissi to discuss regional issues,253,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,0,10
+36,Fertilizer Shortage Leaves Farmers Struggling to Keep Crops Alive,424,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,4,9
+42,Federal official warns of water shortages in Western US due to drought,313,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,14,12
+50,Army National Guard commanders given discretion over unvaccinated troops,218,LThoEJBs8INX22KfDMJT09LBP8F2,4,5,9
+57,Kansas Cows Killed by Record-Breaking Heat Wave,488,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,11,7
+65,Indirect talks between Iran and the US end without breakthrough,311,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,2,10
+71,Newly discovered bacteria is the biggest ever seen,375,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,18,8
+73,Japan gradually relaxes COVID restrictions to allow limited number of foreign tourists,212,LThoEJBs8INX22KfDMJT09LBP8F2,4,7,12
+83,"-COVID vaccines prevented catastrophic outcomes, new study finds",82,7vtosds1eTQWx6qaDn5FwExnVR63,4,8,8
+87,New COVID vaccines offer more options and longer protection,256,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,9,9
+90,Ancient Charred Remains Reveal Evidence of Earliest Wildfire,87,7vtosds1eTQWx6qaDn5FwExnVR63,4,15,8
+98,UN Urges Libya to Hold Elections at Earliest Possible Date,306,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,3,10
+105,US Forest Service employees made several mistakes in planning New Mexico controlled burn,258,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,13,13
+108,"-Reservoir levels in Colorado River dwindle, water shortages expected",241,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,10,9
+114,Early human ancestors found in South African cave date back  million years,497,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,19,12
+5,Theresa May Slams Boris Johnson's Plan to Override Brexit Deal,734,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,1,10
+11,Qatar and Egypt Form Closer Ties After  Rift,426,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,0,8
+13,"COVID vaccines prevented  million deaths in India,  million in US",732,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,8,10
+18,Japan Braces for Return of Foreign Tourists,300,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,7,7
+25,Wet Bulb Effect: The science behind this week's dangerous heat wave,259,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,11,11
+35,Charcoal Evidence Pushes Earliest Evidence for Wildfire Back  Million Years,257,NyunC9C1PYUuRhhMEXBz1YCdMQ02,4,15,10
+36,Climate Change Megadrought: Western US Suffers Through Worst Drought in  Years,476,lSToD6u7LuZJk20NqhMUk3jy22S2,4,10,11
+43,Talks between Iran and US end without breakthrough,362,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,2,8
+49," Drought continues to plague Western US, water shortages to intensify",465,lSToD6u7LuZJk20NqhMUk3jy22S2,4,14,10
+56,Forest Service Chief: Climate Change Leading to More Intense Wildfires,88,7vtosds1eTQWx6qaDn5FwExnVR63,4,13,10
+64,Scientists urge Americans to rethink their love of lawns,310,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,12,9
+70,Hopes for Long-Awaited Libyan Elections Rise After Productive Talks,731,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,3,9
+73,Updated COVID  Shots Show Promise Against Recent Variants,378,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,6,8
+79,Autonomous Ships May Help Map Hard-To-Reach Areas of Seafloor,720,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,16,9
+84,Army National Guard vaccine deadline passes with many soldiers unvaccinated,737,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,5,10
+93,New COVID  Vaccines Promise Enhanced Protection Against Viral Variants,616,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,9,9
+100,Stunningly Preserved Mammoth Calf Found In Permafrost,604,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,17,7
+105,Scientists discover new species of giant bacteria,429,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,18,7
+110,Burial dating could help better chronicle human evolution,602,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,19,8
+115,Fertilizer shortage leaves African farmers scrambling,377,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,4,6
+3,Drought causes water shortages across the West,317,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,10,7
+8,Qatar's Emir Arrives in Cairo for Talks With President,729,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,0,9
+16,UN Ocean Conference: Mapping the World's Oceans for Navigation and Conservation,379,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,16,11
+18,Fertilizer Shortage Threatens Food Supply Across Africa,617,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,4,7
+29,Is your manicured lawn contributing to climate change?,498,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,12,8
+34,Army National Guard Vaccination Deadline Passes with Thousands Still Unvaccinated,472,lSToD6u7LuZJk20NqhMUk3jy22S2,4,5,10
+39,New burial dating technique sheds light on human evolution,364,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,19,9
+44," COVID  vaccines still effective, but booster shots needed to extend protection",80,7vtosds1eTQWx6qaDn5FwExnVR63,4,9,11
+51,Federal official warns of water shortages due to ongoing drought,486,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,14,10
+58," Japan Gradually Loosens COVID Restrictions, Allowing Limited Numbers of Foreign Tourists",473,lSToD6u7LuZJk20NqhMUk3jy22S2,4,7,11
+62,"COVID vaccines averted  million deaths, says new study",318,RZI4FdNDcbgodjwzKAXc9so6YDW2,4,8,8
+70,-Wildfire evidence pushs back date of earliest fire by  million years,484,m7KQ8g7gWlSVWMijbFfWYvT4PCt1,4,15,11
+76,Stunningly Preserved Woolly Mammoth Remains Found in Permafrost,436,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,17,8
+78,Scientists discover new giant bacteria species in the Caribbean,215,LThoEJBs8INX22KfDMJT09LBP8F2,4,18,9
+89,UN Hopeful for Upcoming Libyan Elections Amidst Factions' Contention,607,rudzUe7r3LQRoyXDq2DnFEeLcnf1,4,3,9
+94,Prescribed Burn in New Mexico Ignites into Largest Wildfire in State's History,726,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,13,12
+96,UK Prime Minister Boris Johnson's Bill to Override Brexit Deal Passes First Legislative Hurdle,435,cOwKyYY29hRbhE9JwZyRBaPNgna2,4,1,14
+103,FDA to decide on updated COVID booster shots within days,202,LThoEJBs8INX22KfDMJT09LBP8F2,4,6,10
+108," Iran Nuclear Talks End in Stalemate, Risking Confrontation",733,wBQfNRgqvPXLhj8GHPSa7Utdcw03,4,2,8
+117,Study warns of Earth's 'unprecedented' climate shift,376,YhliNBQ7AXhv9ccM5JCdenUVv0u1,4,11,7
+5,Qatari and Egyptian Leaders Meet to Discuss Key Issues,697,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,0,9
+9," UN urges Libya's rivals to agree on elections this week
+",224,LoDaQFokdGWa9TWBH61EBRf6Q272,5,3,10
+14,Tanzania farmers struggle to keep crops alive amid global fertiliser shortage,700,uIQjNU1bgVfp0K8B7po65McKCZF2,5,4,11
+21,Well Preserved Baby Woolly Mammoth Found in Yukon,750,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,17,8
+27,Army National Guard soldiers must be vaccinated for Covid before deadline!,402,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,5,11
+34,New Variants Push Moderna and Pfizer Update COVID Booster Shots,112,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,6,10
+38,Iran Nuclear Talks End Without Breakthrough,184,IUccO19kQBYLnovtvPkCbJuUIZ22,5,2,6
+47," UK moves forward with plans to override Brexit deal, provoking renewed legal action from EU ",749,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,1,15
+51,-Drought in the West Threatens Water Supply for Millions,696,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,14,9
+55,UN Conference Told Progress Made in Mapping Ocean Floor,153,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,16,9
+61,-COVID vaccines prevent millions of deaths worldwide,347,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,8,7
+67,Scientists Discover Bacteria That Grow Up to the Size of a Human Eyelash,414,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,18,13
+76,Climate change: Lawns are a bigger problem than you think,115,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,12,10
+78,megadrought creates water scarcity crisis in the West,708,uIQjNU1bgVfp0K8B7po65McKCZF2,5,10,8
+85,New study puts human ancestor Lucy and early hominins from Sterkfontein Caves within same time frame,408,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,19,16
+93,Climate change made controlling New Mexico wildfire much harder than expected,752,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,13,11
+100," COVID  restrictions gradually loosening in Japan, bringing back tourists",405,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,7,9
+102,Kansas cattle veterinarian: Heat wave a 'true weather event',693,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,11,9
+113,Giant Fungi Forest Burns in Ancient Wildfire,356,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,15,7
+118,-New vaccines on the way to extend COVID  protection,229,LoDaQFokdGWa9TWBH61EBRf6Q272,5,9,9
+5,Global fertilizer shortage threatens African farmers,751,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,4,6
+7,Indirect Iran-US talks end without breakthrough,236,LoDaQFokdGWa9TWBH61EBRf6Q272,5,2,6
+14,Mapping the ocean floor: a crucial step in safeguarding our planet's future,692,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,16,12
+18,Study says heat-related weather events linked to climate change,150,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,11,9
+25,Drought Strains Seven-State Colorado River,409,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,10,5
+30,Federal official warns of water cuts to Western states due to diminished Colorado River reservoirs,103,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,14,15
+39,Japan Braces for Return of Foreign Tourists Amidst COVID  Concerns,353,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,7,10
+45,Controlled Burn in New Mexico Escalates into Largest Fire in State History,192,IUccO19kQBYLnovtvPkCbJuUIZ22,5,13,12
+50,Scientists uncover new details about early human ancestors in South African cave,743,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,19,12
+54,Tories Divided Over Boris Johnson's Plan To Override Brexit Deal,711,uIQjNU1bgVfp0K8B7po65McKCZF2,5,1,10
+60,Nun cho ga: Baby woolly mammoth found in Klondike gold fields,126,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,17,11
+71,"COVID  Vaccines Avert Millions of Deaths Worldwide, Study Finds",130,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,8,9
+72,Egypt And Qatar Improve Relations After Years Of Tension,358,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,0,9
+78,-Libya rival factions agree on measures for long-awaited elections aiming to end a decade of chaos,106,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,3,16
+87," Scientists Discover New, Giant Species of Bacteria",355,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,18,7
+92," Home Lawns contribute to climate change, water pollution",144,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,12,8
+98,Army National Guard soldiers given deadline for Covid vaccination,340,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,5,9
+107,More options coming for COVID booster shots,682,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,9,7
+110,-US health authorities to debate offering new COVID booster shots this fall,410,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,6,12
+119,"Earliest evidence of wildfire found in Wales
+",227,LoDaQFokdGWa9TWBH61EBRf6Q272,5,15,7
+2,Is Your Lawn Contributing To Climate Change?,194,IUccO19kQBYLnovtvPkCbJuUIZ22,5,12,7
+6,-Seabed  project encourages public to help map the ocean floor,758,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,16,10
+16,Report: Climate Change Made New Mexico Wildfire Much Worse Than Anticipated,407,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,13,11
+23,Clinical Trials Show New COVID  Booster Shots are Safe and Effective,756,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,9,11
+25,Japan gradually relaxes coronavirus restrictions for foreign tourists,709,uIQjNU1bgVfp0K8B7po65McKCZF2,5,7,8
+30,Researchers claim human fossils are 3.7 million years old,157,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,19,9
+38,Africa's farmers battle to keep crops alive amid global fertiliser shortage,350,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,4,11
+46,Tory MPs Vote to Allow Johnson's Brexit Bill That Breaks International Law to Proceed,111,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,1,14
+48,Scientists discover new 'super bacterium' visible to the naked eye,712,uIQjNU1bgVfp0K8B7po65McKCZF2,5,18,10
+59,Colorado River Reservoirs at Risk of Running Dry,238,LoDaQFokdGWa9TWBH61EBRf6Q272,5,14,8
+60,National Guard recruitment crisis may allow unvaccinated troops to remain in service,151,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,5,12
+70,FDA Officials to debate updated COVID booster shots,714,uIQjNU1bgVfp0K8B7po65McKCZF2,5,6,8
+75,COVID Vaccines Averted  Million Deaths Globally,691,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,8,6
+82,UN Calls for National Reconciliation Efforts in Libya,400,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,3,8
+86,Qatari emir visits Cairo for first time in years,715,uIQjNU1bgVfp0K8B7po65McKCZF2,5,0,9
+92,Record-Low Reservoir Levels Prompt Water Restrictions in Western States,136,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,10,9
+100,Preserved Woolly Mammoth Discovered In Canada,189,IUccO19kQBYLnovtvPkCbJuUIZ22,5,17,6
+107,US Accuses Iran of Stalling Nuclear Deal Progress,710,uIQjNU1bgVfp0K8B7po65McKCZF2,5,2,8
+111,Ancient evidence of wildfire discovered in South Wales,129,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,15,8
+118,Heat Wave Claims Thousands of Cattle in Kansas,359,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,11,8
+2,Colorado River reservoirs depleted; water cuts necessary,357,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,10,7
+11,New COVID  vaccines on the way to provide even more protection against the virus,701,uIQjNU1bgVfp0K8B7po65McKCZF2,5,9,14
+13,Nearly complete baby mammoth remains discovered in northwestern Canada,713,uIQjNU1bgVfp0K8B7po65McKCZF2,5,17,9
+19,Is your lawn contributing to climate change?,121,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,12,7
+29," New species of bacteria discovered, largest bacteria to date?",222,LoDaQFokdGWa9TWBH61EBRf6Q272,5,18,9
+30,FDA panel to debate new COVID booster shots to ward off new variants,133,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,6,13
+41,"Army National Guard Members Refuse Vaccine, Face Potential Expulsion",182,IUccO19kQBYLnovtvPkCbJuUIZ22,5,5,9
+46,COVID Vaccines Prevented Deaths On An Unimaginable Scale,199,IUccO19kQBYLnovtvPkCbJuUIZ22,5,8,8
+50,"Climate change leads to more frequent and intense wildfires, Forest Service plans can't keep up",104,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,13,15
+59,Fertilizer Shortage Fuels Fears of Food Scarcity Across Africa,143,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,4,9
+62,Scientists Warn of the Deadly new Effects from Rising Temperatures,742,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,11,10
+68,US and Iran deadlocked in nuclear talks,748,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,2,7
+76,Colorado River Reservoirs Diminish to Record-Low Levels Creating Water Shortages,180,IUccO19kQBYLnovtvPkCbJuUIZ22,5,14,10
+82,Japan's foreign tourists return as COVID restrictions ease,149,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,7,8
+85,UN Urges Libyan Factions to Hold Elections Soon,145,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,3,8
+92,Mapping the Seafloor: New technologies crucial for climate change,127,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,16,9
+99,Boris Johnson's Brexit Bill Draws Criticism from European Union,349,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,1,9
+106,Burial dating method reveals new information about early human ancestors,235,LoDaQFokdGWa9TWBH61EBRf6Q272,5,19,10
+110,Evidence of ancient wildfire pushes back the date for the earliest fires on Earth,757,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,15,14
+114,Qatar and Egypt Seek to Improve Bilateral Ties,138,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,0,8
+1,Evidence of 430-million-year-old wildfire uncovered in South Wales,719,uIQjNU1bgVfp0K8B7po65McKCZF2,5,15,8
+8,Tanzanian Farmers Struggle to Keep Crops Alive Amid Fertilizer Shortage,403,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,4,10
+15,Baby woolly mammoth found frozen in permafrost in Canada,417,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,17,9
+22,Severe Weather From Climate Change Wreaks Havoc Across the Midwest,228,LoDaQFokdGWa9TWBH61EBRf6Q272,5,11,10
+26,Burial Dating Shows Early Human Fossils Are Older Than Previously Thought,186,IUccO19kQBYLnovtvPkCbJuUIZ22,5,19,11
+31,Study finds COVID vaccines prevented nearly 20 million deaths in first year,705,uIQjNU1bgVfp0K8B7po65McKCZF2,5,8,12
+38,Army National Guard facing contentious deadline for Covid vaccine,231,LoDaQFokdGWa9TWBH61EBRf6Q272,5,5,9
+46,Biden administration considering 'Plan B' options if diplomacy fails to salvage nuclear deal,135,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,2,13
+48,Libya's Rival Factions Agree To Meet About Terms for Upcoming Election,706,uIQjNU1bgVfp0K8B7po65McKCZF2,5,3,11
+55,New vaccines on the way to extend protection against COVID sub variants,137,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,9,12
+64,Bacteria the size of human eyelashes found in Caribbean mangroves,754,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,18,10
+68,Federal officials warn of water shortages in western US,223,LoDaQFokdGWa9TWBH61EBRf6Q272,5,10,9
+76,Bill to Amend Brexit Deal Passes Second Reading in House of Commons,141,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,1,12
+80,Egypt and Qatar Seek to Improve Relations Ahead of Biden's Middle East Trip,105,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,0,13
+84,New Booster Shots Could Offer More Protection Against COVID Variants,181,IUccO19kQBYLnovtvPkCbJuUIZ22,5,6,10
+95," In Preparation for Foreign Tourists' Return, Japanese Rickshaw Men Add English-Speaking Staff ",125,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,7,12
+100,Drought in the West: Seven states to see reduced water allotments next year,703,uIQjNU1bgVfp0K8B7po65McKCZF2,5,14,13
+103,Is your lawn harming the planet? Scientists say it's time to rethink our obsession with grass,686,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,12,16
+108,Forest Service Vows To Improve Planning Amidst Criticism After Wildfire,690,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,13,10
+116,-Semi-Autonomous Vehicles Key to Mapping Vast Unknown Areas of Ocean Floor,116,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,16,11
+1,Federal officials warn of impending water crisis across Western states,132,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,14,10
+10,Burial dating reveals early humans lived in South African cave long before previously thought,117,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,19,14
+17,COVID  Booster Shots: Which to Choose?,404,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,9,6
+18,Africa's farmers hit hard by global fertilizer shortage,225,LoDaQFokdGWa9TWBH61EBRf6Q272,5,4,8
+25," Climate Change Megadrought Grips Western US, Causing Severe Water Scarcity",746,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,10,10
+32,Tokyo's Asakusa district prepares for the return of foreign tourists,740,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,7,10
+37,House of Commons Passes Northern Ireland Protocol Bill Despite Conservative Party Opposition,406,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,1,12
+42," Iran, US end talks without breakthrough",401,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,2,6
+48,Scientists discover world's largest bacteria in Caribbean mangroves,154,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,18,8
+57," Lawns contribute to water pollution and climate change, experts say",230,LoDaQFokdGWa9TWBH61EBRf6Q272,5,12,10
+62,Mapping the Ocean Floor: Understanding Our Blue Planet,346,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,16,8
+71," Qatar and Egypt strengthen ties, discuss regional issues ",234,LoDaQFokdGWa9TWBH61EBRf6Q272,5,0,8
+77,Charred fungal remains in Wales offer insight into early wildfires,119,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,15,10
+79,Scientists Warn of Increased Frequency of Extreme Weather Due to Climate Change,113,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,11,12
+84,Incredibly well-preserved baby woolly mammoth found in Canada!,684,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,17,8
+95,"-COVID  vaccines save 20 million lives; improved access could have saved 600,000 more",147,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,8,13
+100,Forest Service mistakes result in the largest fire in New Mexico history,124,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,13,12
+106,Army National Guard troops face penalties for not meeting vaccination deadline,702,uIQjNU1bgVfp0K8B7po65McKCZF2,5,5,11
+110,UN urges Libyan factions to agree on transitional measures for elections,139,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,3,11
+116,US health authorities grapples with whether to modify COVID vaccine for fall,226,LoDaQFokdGWa9TWBH61EBRf6Q272,5,6,12
+1,US health authorities to consider new COVID booster shots to better match recent changes of the shape-shifting coronavirus,680,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,6,18
+8,Mummified baby mammoth found in Canada is 'most complete' ever found in North America,233,LoDaQFokdGWa9TWBH61EBRf6Q272,5,17,14
+17,US-EU efforts to revive Iran nuclear deal fall short,689,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,2,9
+18,COVID Vaccines Could Have Prevented Even More Deaths,220,LoDaQFokdGWa9TWBH61EBRf6Q272,5,8,8
+26,Thousands of National Guard Soldiers Unvaccinated Ahead of Deadline,698,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,5,9
+33,Forest Service Employees Underestimated Impact of Climate Change on New Mexico Wildfires,232,LoDaQFokdGWa9TWBH61EBRf6Q272,5,13,12
+40,Is Your Lawn Killing the Planet?,411,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,12,6
+47,New COVID  vaccine formulations on the way,156,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,9,7
+50," Wildfires date back to  million years ago, according to new evidence",688,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,15,11
+55,climate change puts millions of people at risk as drought worsens in western US,744,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,14,14
+64,UN urges agreement on transition to elections in Libya,687,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,3,9
+67,Kansas Cows Drop Dead in Record-Breaking Heat Wave,128,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,11,8
+76,Qatar emir and president discuss key regional issues,413,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,0,8
+78,Fertiliser shortage putting Africa's food security at risk,695,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,4,8
+84,-Colorado River drought forces water supply cuts in seven Western states,148,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,10,11
+90,"Scientists find largest bacteria to date, challenging limits of what bacteria looks like",109,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,18,13
+100," COVID  Restrictions Easing In Japan, Foreign Tourists Return",191,IUccO19kQBYLnovtvPkCbJuUIZ22,5,7,8
+105,Boris Johnson's Brexit Bill Passes Despite Opposition From Theresa May,694,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,1,10
+113,Ocean Floor Mapping Progresses Slowly But Surely,221,LoDaQFokdGWa9TWBH61EBRf6Q272,5,16,7
+114,Burial dating method reveals early human fossils are older than previously thought,707,uIQjNU1bgVfp0K8B7po65McKCZF2,5,19,12
+5,America's love affair with lawns is harming the environment,753,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,12,9
+11,"In a Groundbreaking Discovery, a Woolly Mammoth Calf is Unearthed in Yukon ",342,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,17,12
+14,US health authorities debate whether to offer new COVID booster shots,747,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,6,11
+23,Boris Johnson's Brexit Bill Passes First Hurdle in House of Commons,190,IUccO19kQBYLnovtvPkCbJuUIZ22,5,1,11
+29,New Technologies Essential To Mapping Global Ocean Floor,187,IUccO19kQBYLnovtvPkCbJuUIZ22,5,16,8
+34,Egypt and Qatar to mend relations,759,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,0,6
+37,Sanctions Push Fertilizer Shortage Threatening Tanzania's Food Supply,101,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,4,8
+47,Federal official warns of major water cuts to seven Western states relying on Colorado River reservoirs,152,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,14,16
+52," With recruiting crisis, some unvaccinated Army National Guard soldiers may be allowed to stay despite vaccine mandate ",102,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,5,17
+56,Over one-third of the US population is under extreme heat advisory,717,uIQjNU1bgVfp0K8B7po65McKCZF2,5,11,11
+63,US and Iran at impasse in nuclear deal negotiations,341,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,2,9
+67,Giant new species of bacteria found in Caribbean mangrove!,685,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,18,9
+77,Japanese businesses prepare for return of foreign tourists,681,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,7,8
+80,More Lives Could Have Been Saved With Stronger Push For International Vaccination Targets,118,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,8,13
+89,More Options for COVID Booster Shots On The Way,198,IUccO19kQBYLnovtvPkCbJuUIZ22,5,9,9
+94," Marine Setting Preserved Ancient Charcoal, Revealing More About Wildfires and Oxygen Levels on Earth",418,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,15,14
+99,Libya factions agree on measures for election transition,755,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,3,8
+102," New Mexico fire: controlled burn goes horribly wrong, ablaze for weeks ",345,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,13,11
+113," Climate Change Causing Colorado River to Disappear, leaving Millions of People Without Water",110,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,10,13
+115,New method reveals that early human ancestors lived  million years ago,683,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,19,11
+0,Theresa May speaks out against Johnson's Brexit bill,123,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,1,8
+6,Qatar's Emir Continues attempts to Repair Relations with Egypt,140,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,0,9
+15,COVID vaccines save nearly  million lives in first year,745,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,8,9
+19,COVID  restrictions slowly easing for foreign tourists in Japan,237,LoDaQFokdGWa9TWBH61EBRf6Q272,5,7,9
+26,Thousands of Cattle Dead in Kansas Feedlot from Lethal Heat Wave,197,IUccO19kQBYLnovtvPkCbJuUIZ22,5,11,11
+33," Charcoal Fragments From Silurian Period Suggest Large, Widespread Fires Occurred",193,IUccO19kQBYLnovtvPkCbJuUIZ22,5,15,10
+37,Drought Threatens the Colorado River:  Million People at Risk,699,uA2ctpMlrPWUQyFhAUak6O0xDEz1,5,10,9
+47,EU urges 'greater urgency' as US-Iran talks fail to reach a deal,100,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,2,12
+51,Colorado River Dwindling: Seven States Facing water Supply Cuts,412,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,14,9
+57,US Forest Service says climate change factors intensified New Mexico wildfire,155,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,13,11
+65,Lawns are contributor to water pollution and climate change',354,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,12,9
+69,Progress made in long-awaited Libyan elections as rivals agree on key measures,343,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,3,12
+77,US Mulls Updated COVID Booster Shots To Better Match Recent Variants,352,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,6,11
+81,New data reveals just 23.4% of ocean floor has been mapped,718,uIQjNU1bgVfp0K8B7po65McKCZF2,5,16,11
+89,Many Army National Guard soldier's remain unvaccinated,741,wyugVT2NFeZtWKOKQ2UpJ5eUF5q2,5,5,7
+95,New COVID Booster Shots on the Way: Which One is Right for You?,348,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,9,13
+98,Mummified Mammoth Calf Found in Permafrost is 'Most Complete' Ever Recovered,108,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,17,11
+106,Scientist Discovers World's Largest Bacteria In Caribbean Mangrove,185,IUccO19kQBYLnovtvPkCbJuUIZ22,5,18,8
+113,New technique dating early human fossils reveals striking results,351,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,19,9
+118,Global Fertilizer Shortage Spurs Fears Of Food Shortage In Africa,188,IUccO19kQBYLnovtvPkCbJuUIZ22,5,4,10
+2,"Colorado River Reservoirs Diminishing, Water Restrictions Necessary In Some Western States",196,IUccO19kQBYLnovtvPkCbJuUIZ22,5,10,11
+9,Qatar and Egypt Look to Strengthen Ties Ahead of Biden's Middle East Trip,195,IUccO19kQBYLnovtvPkCbJuUIZ22,5,0,13
+12,Mapping the Ocean Floor: Why It Matters and How We're Doing It,416,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,16,12
+19,Arusha region farmers struggling to keep business alive amid global fertiliser shortage,134,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,4,12
+25,Alternatives to lawns could reduce water pollution and improve carbon sequestration,704,uIQjNU1bgVfp0K8B7po65McKCZF2,5,12,11
+30,Soldiers given second chance to get vaccinated and avoid penalties,131,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,5,10
+40,Scientists uncover new findings on early human ancestors,122,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,19,8
+47,Improved immunity with new COVID  booster shots coming soon,114,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,9,9
+49,Federal Official Warns Of Drastic Cuts To Colorado River's Water Supply,344,XejxEr2oK8Xk9CTJhxXZwKyEzL73,5,14,11
+56," COVID  restrictions slowly easing in Japan, struggling small businesses welcome back tourists",107,AtwFIMCkpLTdyT6zSPsQSMao2uj2,5,7,12
+60," Study: COVID vaccines saved millions of lives, but could have saved more",419,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,8,12
+66,Charcoal in Welsh mudstone shows wildfire occurred 430 million years ago,158,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,15,11
+72,Yukon's mummified baby mammoth is North America's best specimen,159,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,17,9
+81,Scientists Find New Type of Bacteria as Large as a Human Eyelash,120,CFhnIRlNuSSnz5UpZM17jMA3pUg1,5,18,12
+86,Libya: Rival Factions to Meet in Geneva to Discuss Transition to Elections,183,IUccO19kQBYLnovtvPkCbJuUIZ22,5,3,12
+91,New Mexico wildfire highlights need for better planning amid climate change,716,uIQjNU1bgVfp0K8B7po65McKCZF2,5,13,11
+99,UK MPs vote to allow Boris Johnson's Brexit bill to move forward,239,LoDaQFokdGWa9TWBH61EBRf6Q272,5,1,12
+107,FDA to consider if new COVID variant booster shots are needed,146,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,6,11
+110," Indirect talks between Iran, US fail to revive nuclear deal",142,CHPvD2GusIUzZFAkiOpoRaDU1rE3,5,2,10
+119,Cows Dropping in Heat Wave as Temperatures Soar Across the Country,415,Z27Gbj2CLgfRR7JAncHW4raowdB2,5,11,11
