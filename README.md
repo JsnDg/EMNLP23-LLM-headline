@@ -2,7 +2,11 @@
 
 This repository contains datasets used in the research paper "Harnessing the Power of LLMs: Evaluating Human-AI Text Co-Creation through the Lens of News Headline Generation," presented at EMNLP'23.
 
-# Documentation and Citation
+# Documentation
+
+The repository has two datasets
+
+# Citation
 
 For detailed insights into the methodology and implications of this dataset's creation, please refer to our study in the EMNLP'23 paper, available [here](https://arxiv.org/pdf/2310.10706.pdf). If you intend to utilize this dataset, it is requisite to cite the following paper:
 
