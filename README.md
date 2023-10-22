@@ -4,7 +4,7 @@ This repository contains datasets used in the research paper "Harnessing the Pow
 
 # Documentation and Citation
 
-For detailed insights into the methodology and implications of this dataset's creation, please refer to our study in the EMNLP'23 paper, available here. If you intend to utilize this dataset, it is requisite to cite the following paper:
+For detailed insights into the methodology and implications of this dataset's creation, please refer to our study in the EMNLP'23 paper, available [here](https://arxiv.org/pdf/2310.10706.pdf). If you intend to utilize this dataset, it is requisite to cite the following paper:
 
 ```
 @article{ding2023harnessing,
